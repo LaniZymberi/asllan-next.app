@@ -1,6 +1,6 @@
 FROM node
 
-WORKDIR /usr/asllan-next-app
+WORKDIR /usr/asllan-next-app/
 
 COPY package*.json /usr/asllan-next-app/
 
